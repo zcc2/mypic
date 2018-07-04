@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/White"
+    android:layout_height="100dp">
+    <ImageView
+        android:id="@+id/iv_item_news"
+        android:layout_alignParentRight="true"
+        android:layout_margin="@dimen/body_pad2"
+        android:layout_width="80dp"
+        android:layout_height="80dp"/>
+    <TextView
+        android:id="@+id/tv_item_news_titles"
+        style="@style/text114_black_color"
+        android:layout_toLeftOf="@+id/iv_item_news"
+        android:layout_marginTop="@dimen/body_pad2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+       android:background="@color/app_gray_line1"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_height="@dimen/divide_line_height"/>
+
+</RelativeLayout>

@@ -1,0 +1,94 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!-- loading 样式 -->
+    <style name="loadstyle" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/iosstyle_halftransparent_bg</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="text12_gray_color">
+        <item name="android:textColor">@color/app_tv_black3</item>
+        <item name="android:textSize">@dimen/textsize12</item>
+    </style>
+    <style name="text10_white_color">
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textSize">@dimen/textsize12</item>
+    </style>
+    <style name="text12_white_color">
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textSize">@dimen/textsize12</item>
+    </style>
+    <style name="text14_white_color">
+        <item name="android:textColor">@color/White</item>
+        <item name="android:textSize">@dimen/textsize14</item>
+    </style>
+    <style name="text12_red_color">
+        <item name="android:textColor">@color/tv_orange_color</item>
+        <item name="android:textSize">@dimen/textsize12</item>
+    </style>
+    <style name="text12_rednew_color">
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textSize">@dimen/textsize12</item>
+    </style>
+
+    <style name="text13_orange_color">
+        <item name="android:textColor">@color/tv_orange_color</item>
+        <item name="android:textSize">@dimen/textsize14</item>
+    </style>
+
+    <style name="text18_orange_color">
+        <item name="android:textColor">@color/tv_orange_color</item>
+        <item name="android:textSize">@dimen/textsize18</item>
+    </style>
+
+    <style name="text188_orange_color">
+        <item name="android:textColor">@color/tv_orange_color</item>
+        <item name="android:textSize">@dimen/textsize22</item>
+    </style>
+    <!-- 碧生息页面 -->
+    <style name="text14_orange_color">
+        <item name="android:textColor">@color/tv_orange_color</item>
+        <item name="android:textSize">@dimen/textsize16</item>
+    </style>
+
+    <style name="text16_orange_color">
+        <item name="android:textColor">@color/tv_orange_color</item>
+        <item name="android:textSize">@dimen/textsize14</item>
+    </style>
+
+    <style name="text120_orange_color">
+        <item name="android:textColor">@color/tv_orange_color</item>
+        <item name="android:textSize">@dimen/textsize20</item>
+    </style>
+    <style name="text22_orange_color">
+        <item name="android:textColor">@color/tv_orange_color</item>
+        <item name="android:textSize">@dimen/textsize22</item>
+    </style>
+
+    <style name="text12_orange_color">
+        <item name="android:textColor">@color/tv_orange_color</item>
+        <item name="android:textSize">@dimen/textsize12</item>
+    </style>
+
+    <style name="text0_red_color">
+        <item name="android:textColor">@color/app_tv_meg_red</item>
+        <item name="android:textSize">@dimen/textsize12</item>
+    </style>
+    <style name="text114_black_color">
+        <item name="android:textColor">@color/app_tv_black2</item>
+        <item name="android:textSize">@dimen/textsize16</item>
+    </style>
+
+</resources>

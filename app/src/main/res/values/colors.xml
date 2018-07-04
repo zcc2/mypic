@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_bg">#F5F5F5</color>
+    <color name="White">#FFFFFF</color>
+    <color name="red">#ff0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="qpp_dialog_bg">#939395</color>
+    <color name="app_tab_bg_color">#F8F8F8</color>
+    <color name="app_white">#ffffffff</color>
+    <color name="app_tv_black1">#333333</color>
+    <color name="app_tv_blue">#128FCE</color>
+    <color name="tv_bg_blue">#2E2EFD</color>
+    <color name="app_tv_black_money">#F44A4A</color>
+    <color name="app_tv_black2">#666666</color>
+    <color name="app_tv_black3">#999999</color>
+    <color name="app_line_gray">#E1E1E1</color>
+    <color name="app_tv_organge">#ee5641</color>
+    <color name="app_tv_organge_one">#fc9328</color>
+    <color name="app_tv_organge2">#FD8B38</color>
+    <color name="app_tv_home_blue">#0a66d2</color>
+    <color name="app_bg_organge_light">#FDF6DD</color>
+    <color name="app_tv_organge_light">#FDA662</color>
+    <color name="app_tv_organge_red">#EF2A26</color>
+    <color name="app_tv_meg_red">#FF3634</color>
+    <color name="app_title_product">#FF5D0F</color>
+    <color name="app_gray_line">#e9e9e9</color>
+    <color name="app_gray_line_light">#f7f5f5</color>
+    <color name="app_gray_line1">#F0EFF5</color>
+    <color name="app_gray_tv">#CACCD2</color>
+    <color name="wuye_state_bgcolor">#fff1f2f6</color>
+    <!-- <color name="colorPrimary">#3F51B5</color>
+     <color name="colorPrimaryDark">#303F9F</color>-->
+    <color name="colorPrimary">#fc8946</color>
+    <color name="colorPrimaryNewYear">#fc8946</color>
+    <color name="colorPrimaryDark">#fc8946</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000</color>
+    <color name="sc_transparent_background">#80000000</color>
+    <color name="color_bg_orange_sole">#FDF1E8</color>
+    <!-- 交易类型颜色 -->
+    <color name="green">#00EC00</color>
+    <color name="baobao_agree_tv">#ff9125</color>
+    <color name="baobao_agree_yellow">#FFFF00</color>
+    <!--
+        <color name="baobao_agree_tv">#0088CC</color>
+    -->
+    <!-- 原型头像外圈颜色 -->
+    <color name="round_outpad">#20000000</color>
+    <!-- 顶部bar颜色 -->
+    <color name="action_bar_color">#195fa7</color>
+    <!-- 底部菜单切换文字颜色 -->
+    <color name="tab_tv_press">#ff9125</color>
+    <color name="tab_tv_normal">#8C8D8E</color>
+    <!-- 标题Tab切换颜色 -->
+    <color name="title_tab_press">#ff9125</color>
+    <color name="title_tab_nor">#E94450</color>
+    <!-- 默认输入框hint文字颜色 -->
+    <color name="et_font_hint">#CCCCCC</color>
+    <!-- 按钮点击颜色变换 -->
+    <color name="btn_pre">#F09026</color>
+    <color name="btn_nor">#fd8936</color>
+    <color name="btn_pre_blue">#278BF7</color>
+    <!-- 边框颜色 -->
+    <color name="et_border_color">#fd8936</color>
+    <!-- 首页字体颜色 -->
+    <color name="common_tv_color">#FF5429</color>
+    <color name="cricle_out_color">#DCDCDC</color>
+    <color name="cricle_in_color">#F09026</color>
+    <!-- 应用字体颜色 -->
+    <color name="tv_orange_color">#FF5D0F</color>
+    <!-- 应用字体颜色 -->
+    <color name="red_packet_orange_color">#FD7017</color>
+    <color name="red_packet_red_color">#FD483E</color>
+    <color name="red_packet_blue_color">#1BB5EA</color>
+    <color name="red_packet_green_color">#35D78E</color>
+    <color name="red_packet_gray_color">#757575</color>
+</resources>
